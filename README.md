@@ -25,3 +25,12 @@ activity_main.xml: Defines the visual structure including inputs, selection menu
 AndroidManifest.xml: Configures application permissions including necessary internet access.
 About the Author
 Project developed by Iordache Christian Andrei.
+
+
+HOW TO DOWNLOAD AND USE THE APP
+
+1.Download the .apk file
+2.Open it
+3.Enjoy it
+
+Warning : It works only on Android
