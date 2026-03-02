@@ -2,7 +2,7 @@ Convirta - Android Currency Converter
 Convirta is a mobile application developed for the Android platform that provides real-time currency conversion services. The application connects to an external financial API to fetch up-to-date exchange rates, ensuring accuracy for global currency calculations.
 
 Technical Features
-Live Data Integration: Uses the ExchangeRate-API to retrieve current market values.
+Live Data Integration: Uses the National Bank of Romania .xml file to retrieve current market values.
 Dynamic Selection: Allows users to select both source and target currencies through interactive spinners.
 Multithreading: Implementation of background threads for network requests to maintain UI responsiveness and performance.
 Responsive Design: Built with a vertical LinearLayout to ensure compatibility across various screen sizes.
